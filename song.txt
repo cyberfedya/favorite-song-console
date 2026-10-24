@@ -1,0 +1,7 @@
+Commit by Commit
+
+Verse 1:
+I wake up early, coffee in my hand,
+A blank new folder, a brand new plan.
+I type "git init" and the journey starts,
+A tiny repo with a lot of heart.
