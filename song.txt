@@ -5,3 +5,7 @@ I wake up early, coffee in my hand,
 A blank new folder, a brand new plan.
 I type "git init" and the journey starts,
 A tiny repo with a lot of heart.
+
+Chorus:
+Commit by commit, line by line,
+Pull it from the server, now the song is mine.
